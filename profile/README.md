@@ -8,6 +8,6 @@ I made some projects and developed my understanding with Fernando Nogueira, duri
 
 🛠 [Test Suite Generation](https://github.com/AI-Enabled-Software-Testing/Test-Suite-Generation-AVM)
 
-🧠 [Understanding SAT/SMT Solvers](CSI5186_AI_Testing_Assignment_3___Fernando__Kelvin.pdf)
+🧠 [Understanding SAT/SMT Solvers](../CSI5186_AI_Testing_Assignment_3___Fernando__Kelvin.pdf)
 
 🧪 Hyperparameter Tuning Search for Machine Learning Models (in progress)
